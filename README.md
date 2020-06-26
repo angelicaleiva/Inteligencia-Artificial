@@ -1,5 +1,5 @@
-# Inteligencia-Artificial
-En este repositorio estaré compartiendo conocimientos y trabajos prácticos del Magíster en Inteligencia Artificial
-### Técnicas de Búsqueda y Heurísticas 
-* **Asignación Vuelos** Trabajo práctico en MiniZinc del curso Técnicas de Búsqueda y Heuristicas
-* **Manual Minizinc** Manual y tutorial de uso de MiniZinc. MiniZinc es un programa open source que se utiliza para modelar problemas de programación con restricciones. 
+# Intelligence-Artificial
+In this repository I will be sharing knowledge and practical assignments from the Master in Artificial Intelligence
+### Search techniques and heuristics 
+* **Flight assignment** Practical assignments in MiniZinc from the Search Techniques and Heuristics course
+* **Manual Minizinc** Manual and tutorial of use of MiniZinc. MiniZinc is an open source program constraint modeling language.
