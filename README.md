@@ -11,4 +11,4 @@ Conocimientos y trabajos prácticos del Master en Inteligencia Artificial
 
 ### Procesamiento de Lenguaje Natural
 * **Generador de discursos** Trabajo en Python para generar automáticamente discursos en base a un corpus obtenido de "Prensa Presidencia". Adjunto textos de ejemplo generados.
-(No considera el código con web scrapping para obtener todos los discursos)
+(No considera el código para obtener todos los discursos con web scrapping)
