@@ -1,5 +1,5 @@
-# Inteligencia Artificial
-Conocimientos y trabajos prácticos del Master en Inteligencia Artificial
+# Magíster en Inteligencia Artificial
+repositorio con los trabajos prácticos del Master en Inteligencia Artificial
 
 ### Técnicas de búsqueda y heurística 
 * **Asignación de vuelos** Trabajo práctico en MiniZinc del curso de Técnicas de Búsqueda y Heurística 
